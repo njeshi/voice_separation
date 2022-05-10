@@ -1,0 +1,7 @@
+pyyaml
+librosa
+easydict
+pytorch_lightning
+torchmetrics[audio]
+torchaudio
+SpeechRecognition
